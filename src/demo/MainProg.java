@@ -6,6 +6,7 @@ public class MainProg {
 
 		System.out.println("Démonstration");
 		System.out.println("Et oui en UTF-9 !");
+		System.out.println("Trop Top !");
 
 	}
 
